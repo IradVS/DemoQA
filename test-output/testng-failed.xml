@@ -5,8 +5,7 @@
     <classes>
       <class name="tests.SeleniumDemo">
         <methods>
-          <include name="sampleTestMethod"/>
-          <include name="startTesting"/>
+          <include name="windowHandle"/>
           <include name="startDriver"/>
           <include name="endMethod"/>
         </methods>

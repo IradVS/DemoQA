@@ -2,24 +2,20 @@
 <testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-14T11:10:31 CST" name="Default suite" finished-at="2022-03-14T11:10:46 CST" duration-ms="15071">
+  <suite started-at="2022-03-15T21:03:36 CST" name="Default suite" finished-at="2022-03-15T21:04:01 CST" duration-ms="24884">
     <groups>
     </groups>
-    <test started-at="2022-03-14T11:10:31 CST" name="Default test" finished-at="2022-03-14T11:10:46 CST" duration-ms="15071">
+    <test started-at="2022-03-15T21:03:36 CST" name="Default test" finished-at="2022-03-15T21:04:01 CST" duration-ms="24884">
       <class name="tests.SeleniumDemo">
-        <test-method is-config="true" signature="startTesting()[pri:0, instance:tests.SeleniumDemo@4659191b]" started-at="2022-03-14T11:10:31 CST" name="startTesting" finished-at="2022-03-14T11:10:31 CST" duration-ms="7" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- startTesting -->
-        <test-method is-config="true" signature="startDriver()[pri:0, instance:tests.SeleniumDemo@4659191b]" started-at="2022-03-14T11:10:31 CST" name="startDriver" finished-at="2022-03-14T11:10:45 CST" duration-ms="14393" status="PASS">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:tests.SeleniumDemo@7c711375]" started-at="2022-03-15T21:03:36 CST" name="startDriver" finished-at="2022-03-15T21:03:55 CST" duration-ms="18984" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startDriver -->
-        <test-method signature="sampleTestMethod3()[pri:0, instance:tests.SeleniumDemo@4659191b]" started-at="2022-03-14T11:10:45 CST" name="sampleTestMethod3" finished-at="2022-03-14T11:10:45 CST" duration-ms="414" status="PASS">
+        <test-method signature="radioButton()[pri:0, instance:tests.SeleniumDemo@7c711375]" started-at="2022-03-15T21:03:55 CST" name="radioButton" finished-at="2022-03-15T21:04:00 CST" duration-ms="5599" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- sampleTestMethod3 -->
-        <test-method is-config="true" signature="endMethod()[pri:0, instance:tests.SeleniumDemo@4659191b]" started-at="2022-03-14T11:10:45 CST" name="endMethod" finished-at="2022-03-14T11:10:46 CST" duration-ms="227" status="PASS">
+        </test-method> <!-- radioButton -->
+        <test-method is-config="true" signature="endMethod()[pri:0, instance:tests.SeleniumDemo@7c711375]" started-at="2022-03-15T21:04:00 CST" name="endMethod" finished-at="2022-03-15T21:04:01 CST" duration-ms="266" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endMethod -->
